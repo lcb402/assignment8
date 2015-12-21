@@ -1,0 +1,15 @@
+Daily Mean 1 shares at $1000: -0.0254
+Daily STD 1 shares at $1000: 0.999677367954
+
+Daily Mean 1 shares at $1000: -0.0326
+Daily STD 1 shares at $1000: 0.999468478743
+
+Daily Mean 10 shares at $100: -0.0096
+Daily STD 10 shares at $100: 0.999953918938
+
+Daily Mean 100 shares at $10: -0.027
+Daily STD 100 shares at $10: 0.999635433546
+
+Daily Mean 1000 shares at $1: -0.0254
+Daily STD 1000 shares at $1: 0.999677367954
+
